@@ -1,2 +1,8 @@
+Group Members:
+Arnab Roy
+Ashmita Thapa
+Ryan Wolynetz
+Sujan Shrestha
+
 Contributions:
-All group members contributed equally to this assignment, actively participating in discussions across all sections.
+For this homework we didn't have roles specified and separated. Everyone contributed almost equally for each part through active group discussions.
