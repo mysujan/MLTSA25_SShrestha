@@ -1,4 +1,4 @@
-Group Members:
+Group Members:\n
 Arnab Roy
 Ashmita Thapa
 Ryan Wolynetz
